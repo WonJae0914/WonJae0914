@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
-   <img src="https://img.shields.io/badge/?style=plastic&logo=F7DF1E&logoColor=""/>
+   <img src="https://img.shields.io/badge/JAVA?style=plastic&logo=F7DF1E&logoColor=""/>
 </a>
