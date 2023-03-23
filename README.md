@@ -1,4 +1,8 @@
-### Hi there 👋
+### 안녕하세요 👋
+
+신입 개발자 조원재입니다.
+버티자! 버티는거야! 버티고 즐기면 결국 승리한다!
+
 
 <!--
 **WonJae0914/WonJae0914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
