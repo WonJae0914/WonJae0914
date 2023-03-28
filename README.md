@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://velog.io/@hardworking" target="_blank"><img src="https://img.shields.io/badge/블로그 바로가기-배경색?style=plastic&logo=#20C997&logoColor="/></a>
+<a href="https://velog.io/@hardworking" target="_blank"><img src="https://img.shields.io/badge/블로그 바로가기-fff000?style=plastic&logo=#20C997&logoColor=fff000"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
