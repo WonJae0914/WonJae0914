@@ -1,4 +1,4 @@
-### 안녕하세요 👋
+### Welcome, Cho's dev world 👋
 
 신입 개발자 조원재입니다.
 버티자! 버티는거야! 버티고 즐기면 결국 승리한다!
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
-   <img src="https://img.shields.io/badge/JAVA?style=plastic&logo=F7DF1E&logoColor=""/>
-</a>
+<a href="https://velog.io/@hardworking" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=plastic&logo=#20C997&logoColor=000000"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
